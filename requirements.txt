@@ -153,5 +153,5 @@ wcwidth==0.2.5
 webencodings==0.5.1
 Werkzeug==2.2.2
 widgetsnbextension==4.0.2
-windows-curses==2.3.0
+windows-curses==2.2.1
 wrapt==1.14.1
