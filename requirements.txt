@@ -74,7 +74,7 @@ nbconvert==7.0.0
 nbformat==5.4.0
 nest-asyncio==1.5.5
 notebook==6.4.12
-numpy==1.23.2
+numpy==1.19.2
 oauthlib==3.2.2
 opt-einsum==3.3.0
 packaging==21.3
@@ -114,7 +114,6 @@ pytz==2022.2.1
 pywaffle==1.1.0
 pypiwin32==223 
 pywin32-ctypes==0.2.0
-pywinpty==2.0.7
 pyzmq==23.2.1
 qtconsole==5.3.1
 QtPy==2.2.0
