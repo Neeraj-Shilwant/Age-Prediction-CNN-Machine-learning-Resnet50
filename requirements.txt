@@ -112,7 +112,7 @@ pyttsx3==2.90
 pytweening==1.0.4
 pytz==2022.2.1
 pywaffle==1.1.0
-pywin32==227
+pypiwin32==223 
 pywin32-ctypes==0.2.0
 pywinpty==2.0.7
 pyzmq==23.2.1
